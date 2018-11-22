@@ -1,0 +1,15 @@
+{
+  "name": "gallade-premium",
+  "version": "1.0.0",
+  "description": "Premium commands and features!",
+  "main": "index.js",
+  "scripts": {
+    "test": "gb!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://discord.gg/NeN5s9G"
+  },
+  "author": "Heromario",
+  "license": "ISC"
+}
